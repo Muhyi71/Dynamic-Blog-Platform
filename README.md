@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ThoughtSphere Blog Platform
 
 A modern, full-stack blog platform built with React, TypeScript, and Tailwind CSS. This project demonstrates proficiency in modern web development practices, component architecture, state management, and responsive design.
@@ -291,4 +291,4 @@ This project is developed for educational and portfolio purposes.
 **Developed by Abdul Muhyi** - Demonstrating modern web development skills with React, TypeScript, and responsive design principles.
 =======
 # Dynamic-Blog-Platform
->>>>>>> d210d42768c13b9abcb8838dbdd54a009a9f778d
+
